@@ -1,0 +1,15 @@
+.select-btn{
+    background-color: rgb(25, 192, 61);
+    width: 100px;
+    height: 35px;
+    border: 1px solid rgb(207, 207, 207);
+    cursor: pointer;
+    color: white;
+    box-shadow: 4px 4px 20px rgb(155, 155, 155);
+}
+.cricketer-info{
+    border: 1px solid rgb(170, 170, 170);
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin: 30px 80px;
+}

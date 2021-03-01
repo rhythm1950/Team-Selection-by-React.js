@@ -1,0 +1,136 @@
+[{
+    "id": 1,
+    "name": "Quinton D Cock",
+    "image": "https://i.ibb.co/tBKDZst/download.jpg",
+    "country": "South Africa",
+    "salary": 10000,
+    "email": "sandri0@privacy.gov.au",
+    "gender": "Genderfluid",
+    "ip_address": "PHP"
+  }, {
+    "id": 2,
+    "name": "Chris Lynn",
+    "image": "https://i.ibb.co/Njz4n8k/images.jpg",
+    "country": "Australia",
+    "salary": 14000,
+    "email": "nstadden1@microsoft.com",
+    "gender": "Bigender",
+    "ip_address": "CNY"
+  }, {
+    "id": 3,
+    "name": "Sakib Al Hasan",
+    "image": "https://i.ibb.co/WB5MDdR/download-1.jpg",
+    "country": "Bangladesh",
+    "salary": 24000,
+    "email": "eteal2@jigsy.com",
+    "gender": "Polygender",
+    "ip_address": "CNY"
+  }, {
+    "id": 4,
+    "name": "Glenn Maxwell",
+    "image": "https://i.ibb.co/Qp0LTWf/download-2.jpg",
+    "country": "Australia",
+    "salary": 15000,
+    "email": "ashreeves3@paginegialle.it",
+    "gender": "Bigender",
+    "ip_address": "CZK"
+  }, {
+    "id": 5,
+    "name": "Hardik Pandya",
+    "image": "https://i.ibb.co/cF2tr6N/download-3.jpg",
+    "country": "India",
+    "salary": 16000,
+    "email": "cpidcock4@opera.com",
+    "gender": "Genderfluid",
+    "ip_address": "RUB"
+  }, {
+    "id": 6,
+    "name": "Shahid Afridi",
+    "image": "https://i.ibb.co/TczCXG6/download-4.jpg",
+    "country": "Pakistan",
+    "salary": 12000,
+    "email": "rseabourne5@google.nl",
+    "gender": "Polygender",
+    "ip_address": "CNY"
+  }, {
+    "id": 7,
+    "name": "Mustafizur Rahman",
+    "image": "https://i.ibb.co/PGmdFwH/download-5.jpg",
+    "country": "Bangladesh",
+    "salary": 19000,
+    "email": "umichelmore6@ning.com",
+    "gender": "Genderqueer",
+    "ip_address": "EUR"
+  }, {
+    "id": 8,
+    "name": "Tamim Iqbal",
+    "image": "https://i.ibb.co/7KJSsDh/download-6.jpg",
+    "country": "Bangladesh",
+    "salary": 11000,
+    "email": "rstillmann7@51.la",
+    "gender": "Non-binary",
+    "ip_address": "BRL"
+  }, {
+    "id": 9,
+    "name": "David Warner",
+    "image": "https://i.ibb.co/4MbSXzh/download-7.jpg",
+    "country": "Australia",
+    "salary": 17000,
+    "email": "ejeanon8@nbcnews.com",
+    "gender": "Non-binary",
+    "ip_address": "PLN"
+  }, {
+    "id": 10,
+    "name": "Jasprit Bumrah",
+    "image": "https://i.ibb.co/WBf273x/download-8.jpg",
+    "country": "India",
+    "salary": 18000,
+    "email": "ggerran9@trellian.com",
+    "gender": "Agender",
+    "ip_address": "BRL"
+  }, {
+    "id": 11,
+    "name": "Trent Boult",
+    "image": "https://i.ibb.co/94Qyv3c/download-9.jpg",
+    "country": "New Zealand",
+    "salary": 18500,
+    "email": "kkosiadaa@who.int",
+    "gender": "Genderqueer",
+    "ip_address": "PEN"
+  }, {
+    "id": 12,
+    "name": "Mehedi Miraz",
+    "image": "https://i.ibb.co/Jkh6Z7G/download-10.jpg",
+    "country": "Bangladesh",
+    "salary": 14500,
+    "email": "pmaryinb@dedecms.com",
+    "gender": "Genderqueer",
+    "ip_address": "CNY"
+  }, {
+    "id": 13,
+    "name": "Martin Guptil",
+    "image": "https://i.ibb.co/9NZB8dw/download-11.jpg",
+    "country": "New Zealand",
+    "salary": 13500,
+    "email": "jjeffesc@virginia.edu",
+    "gender": "Genderfluid",
+    "ip_address": "CNY"
+  }, {
+    "id": 14,
+    "name": "Ishan Kishan",
+    "image": "https://i.ibb.co/R3g7pd2/download-12.jpg",
+    "country": "India",
+    "salary": 10500,
+    "email": "jasplandd@mail.ru",
+    "gender": "Genderfluid",
+    "ip_address": "BYR"
+  }, {
+    "id": 15,
+    "name": "Ben Stokes",
+    "image": "https://i.ibb.co/kHDQ4LB/images-1.jpg",
+    "country": "England",
+    "salary": 16500,
+    "email": "jgoodbodye@wiley.com",
+    "gender": "Genderfluid",
+    "ip_address": "EUR"
+  }]

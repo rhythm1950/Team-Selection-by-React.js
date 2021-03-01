@@ -1,0 +1,9 @@
+.full-info-div {
+    display: flex;
+}
+.single-player-info {
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 5px;
+    text-align: center;
+}
