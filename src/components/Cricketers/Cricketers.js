@@ -13,7 +13,7 @@ const Cricketers = (props) => {
             <h2>{name}</h2>
             <p>Country: {country}</p>
             <p>Salary: ${salary}</p>
-            {/* button to select the players from the list */}
+            {/* button to select the players & the use of font awesome icon */}
             <button className="select-btn" onClick={() => props.handleSelectButton(props.cricketer)} ><FontAwesomeIcon icon={faCheck} />Select</button>
         </div>
     );
